@@ -1,0 +1,188 @@
+DELETE FROM answers;
+DELETE FROM questions;
+INSERT INTO questions (id,class,question) VALUES (20,'ANTH101','Where are the Panare located?');
+INSERT INTO answers (id,answer) VALUES (20,'Venezuela (Amazonian region)
+');
+INSERT INTO questions (id,class,question) VALUES (21,'ANTH101','What holds Panare society together?');
+INSERT INTO answers (id,answer) VALUES (21,'kinship
+');
+INSERT INTO questions (id,class,question) VALUES (22,'ANTH101','About how many people are in a typical Panare family?');
+INSERT INTO answers (id,answer) VALUES (22,'50
+');
+INSERT INTO questions (id,class,question) VALUES (23,'ANTH101','How do Panare men gather food?');
+INSERT INTO answers (id,answer) VALUES (23,'hunting
+');
+INSERT INTO questions (id,class,question) VALUES (24,'ANTH101','How do Panare women gather food?');
+INSERT INTO answers (id,answer) VALUES (24,'harvesting from the garden
+');
+INSERT INTO questions (id,class,question) VALUES (25,'ANTH101','What do Panare people do when there is food readily available?');
+INSERT INTO answers (id,answer) VALUES (25,'nothing
+');
+INSERT INTO questions (id,class,question) VALUES (26,'ANTH101','Potatoes, peppers, garlic, and ____ can be found in a Panare garden');
+INSERT INTO answers (id,answer) VALUES (26,'tobacco
+');
+INSERT INTO questions (id,class,question) VALUES (27,'ANTH101','What is the name of the bread eaten by the Panare?');
+INSERT INTO answers (id,answer) VALUES (27,'Gasabi
+');
+INSERT INTO questions (id,class,question) VALUES (28,'ANTH101','Is food provided or shared by otheres in Panare culture?');
+INSERT INTO answers (id,answer) VALUES (28,'no
+');
+INSERT INTO questions (id,class,question) VALUES (29,'ANTH101','Are the Panare fond of western culture?');
+INSERT INTO answers (id,answer) VALUES (29,'no
+');
+INSERT INTO questions (id,class,question) VALUES (30,'ANTH101','What is another name for a Spansih speaking peasant?');
+INSERT INTO answers (id,answer) VALUES (30,'Creole
+');
+INSERT INTO questions (id,class,question) VALUES (31,'ANTH101','Are Creoles fond of the Panare?');
+INSERT INTO answers (id,answer) VALUES (31,'no
+');
+INSERT INTO questions (id,class,question) VALUES (32,'ANTH101','What do the Panare do when they''re bored?');
+INSERT INTO answers (id,answer) VALUES (32,'Make fun of the Creoles
+');
+INSERT INTO questions (id,class,question) VALUES (33,'ANTH101','What do the Creoles trade to the Panare?');
+INSERT INTO answers (id,answer) VALUES (33,'Iron pots
+');
+INSERT INTO questions (id,class,question) VALUES (34,'ANTH101','What kills off most Panare?');
+INSERT INTO answers (id,answer) VALUES (34,'Disease (Flu & Pneumonia)
+');
+INSERT INTO questions (id,class,question) VALUES (35,'ANTH101','Would the Panare rather work for material possesion insead of for necessity?');
+INSERT INTO answers (id,answer) VALUES (35,'no
+');
+INSERT INTO questions (id,class,question) VALUES (36,'ANTH101','Jacob Grimm and William Grimm are commonly refered to as the ____');
+INSERT INTO answers (id,answer) VALUES (36,'Brothers Grimm
+');
+INSERT INTO questions (id,class,question) VALUES (37,'ANTH101','Did the Brother''s Grimm ever Marry?');
+INSERT INTO answers (id,answer) VALUES (37,'no
+');
+INSERT INTO questions (id,class,question) VALUES (38,'ANTH101','Did the brothers Grimm always live together?');
+INSERT INTO answers (id,answer) VALUES (38,'yes
+');
+INSERT INTO questions (id,class,question) VALUES (39,'ANTH101','During what time period were the Brother''s Grimm most active?');
+INSERT INTO answers (id,answer) VALUES (39,'1840s
+');
+INSERT INTO questions (id,class,question) VALUES (40,'ANTH101','What was the profession of the Brother''s Grimm?');
+INSERT INTO answers (id,answer) VALUES (40,'School Teacher
+');
+INSERT INTO questions (id,class,question) VALUES (41,'ANTH101','What did the Brother''s Grimm do with their great amount of free time?');
+INSERT INTO answers (id,answer) VALUES (41,'Hike & bike through Europe
+');
+INSERT INTO questions (id,class,question) VALUES (42,'ANTH101','What did the Brother''s Grimm study during their travels?');
+INSERT INTO answers (id,answer) VALUES (42,'languages
+');
+INSERT INTO questions (id,class,question) VALUES (43,'ANTH101','What is a person who speaks many languages called?');
+INSERT INTO answers (id,answer) VALUES (43,'a POLYGLOT
+');
+INSERT INTO questions (id,class,question) VALUES (44,'ANTH101','How many organs of speech are there?');
+INSERT INTO answers (id,answer) VALUES (44,'27
+');
+INSERT INTO questions (id,class,question) VALUES (45,'ANTH101','How many parts of a language are there?');
+INSERT INTO answers (id,answer) VALUES (45,'3
+');
+INSERT INTO questions (id,class,question) VALUES (46,'ANTH101','What''s another name for the words in a languae called (corpus)?');
+INSERT INTO answers (id,answer) VALUES (46,'Morphemes
+');
+INSERT INTO questions (id,class,question) VALUES (47,'ANTH101','What''s another name for the bits of sound in a language called?');
+INSERT INTO answers (id,answer) VALUES (47,'Phonemes
+');
+INSERT INTO questions (id,class,question) VALUES (48,'ANTH101','What''s another name for the way in which a language is employed?');
+INSERT INTO answers (id,answer) VALUES (48,'Syntax
+');
+INSERT INTO questions (id,class,question) VALUES (49,'ANTH101','How many bits of sound are there in Standarad American English?');
+INSERT INTO answers (id,answer) VALUES (49,'46
+');
+INSERT INTO questions (id,class,question) VALUES (50,'ANTH101','Stress, volume, body language, proximity, eye contact, and ___ are all examples of language syntax');
+INSERT INTO answers (id,answer) VALUES (50,'silence
+');
+INSERT INTO questions (id,class,question) VALUES (51,'ANTH101','The words people use and how they are pronounced');
+INSERT INTO answers (id,answer) VALUES (51,'accent or dialect
+');
+INSERT INTO questions (id,class,question) VALUES (52,'ANTH101','Words and expressions that are passing fads');
+INSERT INTO answers (id,answer) VALUES (52,'slang
+');
+INSERT INTO questions (id,class,question) VALUES (53,'ANTH101','Vocabulary of a special group');
+INSERT INTO answers (id,answer) VALUES (53,'jargon
+');
+INSERT INTO questions (id,class,question) VALUES (54,'ANTH101','____ reveals how people live their lives');
+INSERT INTO answers (id,answer) VALUES (54,'speech
+');
+INSERT INTO questions (id,class,question) VALUES (55,'ANTH101','____ can be expressed through sounds');
+INSERT INTO answers (id,answer) VALUES (55,'culture
+');
+INSERT INTO questions (id,class,question) VALUES (56,'ANTH101','Are Appalachia people are more likely to speak around a subject?');
+INSERT INTO answers (id,answer) VALUES (56,'yes
+');
+INSERT INTO questions (id,class,question) VALUES (57,'ANTH101','Are Westerners more likely to be straight to the point?');
+INSERT INTO answers (id,answer) VALUES (57,'yes
+');
+INSERT INTO questions (id,class,question) VALUES (58,'ANTH101','Boston ____ have a British sounding type of speech');
+INSERT INTO answers (id,answer) VALUES (58,'Brahmins
+');
+INSERT INTO questions (id,class,question) VALUES (59,'ANTH101','Tangier Island speakers have an old-fashioned style of speech');
+INSERT INTO answers (id,answer) VALUES (59,'yes
+');
+INSERT INTO questions (id,class,question) VALUES (60,'ANTH101','Another word for milkshake');
+INSERT INTO answers (id,answer) VALUES (60,'cabinet
+');
+INSERT INTO questions (id,class,question) VALUES (61,'ANTH101','Another word for rubberband');
+INSERT INTO answers (id,answer) VALUES (61,'gumband
+');
+INSERT INTO questions (id,class,question) VALUES (62,'ANTH101','Another word for quitting time');
+INSERT INTO answers (id,answer) VALUES (62,'pau hana
+');
+INSERT INTO questions (id,class,question) VALUES (63,'ANTH101','Another word for jumbalya');
+INSERT INTO answers (id,answer) VALUES (63,'spicy rice stew
+');
+INSERT INTO questions (id,class,question) VALUES (64,'ANTH101','Another word for antigogglin');
+INSERT INTO answers (id,answer) VALUES (64,'crooked
+');
+INSERT INTO questions (id,class,question) VALUES (65,'ANTH101','Another word for snickelfritz');
+INSERT INTO answers (id,answer) VALUES (65,'rowdy child
+');
+INSERT INTO questions (id,class,question) VALUES (66,'ANTH101','Another word for schlep');
+INSERT INTO answers (id,answer) VALUES (66,'to carry
+');
+INSERT INTO questions (id,class,question) VALUES (67,'ANTH101','Is speech is typically learned in the home, from family, and from peers?');
+INSERT INTO answers (id,answer) VALUES (67,'yes
+');
+INSERT INTO questions (id,class,question) VALUES (68,'ANTH101','Is it true that foreighn language does not influence dialect?');
+INSERT INTO answers (id,answer) VALUES (68,'no
+');
+INSERT INTO questions (id,class,question) VALUES (69,'ANTH101','Why do insects plant eggs in dead bodies?');
+INSERT INTO answers (id,answer) VALUES (69,'larva thrive in mucus membranes
+');
+INSERT INTO questions (id,class,question) VALUES (70,'ANTH101','Does forensic science require a graduate degree?');
+INSERT INTO answers (id,answer) VALUES (70,'yes
+');
+INSERT INTO questions (id,class,question) VALUES (71,'ANTH101','Crime scene objects such as: bones, organs, tissue, and air are examples of ____');
+INSERT INTO answers (id,answer) VALUES (71,'Osteometrics
+');
+INSERT INTO questions (id,class,question) VALUES (72,'ANTH101','A body with obstensive fluids is called a ____');
+INSERT INTO answers (id,answer) VALUES (72,'Green Body
+');
+INSERT INTO questions (id,class,question) VALUES (73,'ANTH101','All evidence is numbered in a ____');
+INSERT INTO answers (id,answer) VALUES (73,'Grid Unit
+');
+INSERT INTO questions (id,class,question) VALUES (74,'ANTH101','Marking of bones and suchers are examples of ____');
+INSERT INTO answers (id,answer) VALUES (74,'Monumenting
+');
+INSERT INTO questions (id,class,question) VALUES (75,'ANTH101','Gender, date of death, age of death, and _____ can be be measured through Monumenting');
+INSERT INTO answers (id,answer) VALUES (75,'disease/trauma
+');
+INSERT INTO questions (id,class,question) VALUES (76,'ANTH101','Answers to questions relating to death make up the ____');
+INSERT INTO answers (id,answer) VALUES (76,'Osteobiography
+');
+INSERT INTO questions (id,class,question) VALUES (77,'ANTH101','Are female skulls round with few bumbs?');
+INSERT INTO answers (id,answer) VALUES (77,'yes
+');
+INSERT INTO questions (id,class,question) VALUES (78,'ANTH101','Fat from skin adhering to bones is called ____');
+INSERT INTO answers (id,answer) VALUES (78,'Adipocea
+');
+INSERT INTO questions (id,class,question) VALUES (79,'ANTH101','Exposed bone is gnawreld and erode');
+INSERT INTO answers (id,answer) VALUES (79,'yes
+');
+INSERT INTO questions (id,class,question) VALUES (80,'ANTH101','Unexposed bone is chalkey and unweathered');
+INSERT INTO answers (id,answer) VALUES (80,'yes
+');
+INSERT INTO questions (id,class,question) VALUES (81,'ANTH101','Male skulls have a high jutting forehead');
+INSERT INTO answers (id,answer) VALUES (81,'yes
+');

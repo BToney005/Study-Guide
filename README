@@ -1,0 +1,11 @@
+Simple Study guide.
+Author: Brandon Toney
+Created: Spring 2015
+Description: A simple study guide I made for my Anthro 101 class.
+Requires: python2.7 and SQLite3
+To Run: python StudyGuide.py
+To Populate Database: 
+	Add Question Text and Answer to the questions.txt
+	The format should be: <Question>|Answer
+	Type the following: 
+		python createQuestions.py > sqlite3 StudyGuide.db

@@ -1,0 +1,14 @@
+CREATE TABLE classes (
+	id VARCHAR(7) PRIMARY KEY
+);
+
+CREATE TABLE questions (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	class VARCHAR(7) REFERENCES classes(id),
+	question TEXT NOT NULL 
+);
+
+CREATE TABLE answers (
+	id INTEGER REFERENCES questions(id),
+	answer TEXT NOT NULL
+);
